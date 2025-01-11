@@ -1,3 +1,8 @@
+<h1 align="center"><b>A big update is coming!</b></h1>
+
+<p align="center">Soon you can look forward to a big update that will make the whole tool available for open-source to avoid gossip.</p>
+
+
 # Questloader
 > This program enables side loading of games on Meta Quest 3 using ADB (Android Debug Bridge). A simple and effective tool for installing apps and games directly on the device, offering more flexibility and access to content outside the official store.
 
