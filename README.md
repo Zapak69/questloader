@@ -2,6 +2,15 @@
 
 <p align="center">Soon you can look forward to a big update that will make the whole tool available for open-source to avoid gossip.</p>
 
+## Is QuestLoader legit?
+
+⬇️ Vote clicking button ⬇️
+
+- [Yes 👍](https://github.com/tvoje-repozitare/issues/1)
+- [No 👎](https://github.com/tvoje-repozitare/issues/2)
+
+Počet hlasů se zobrazuje přímo na stránce jednotlivých Issues. Děkujeme za váš názor!
+
 
 # Questloader
 > This program enables side loading of games on Meta Quest 3 using ADB (Android Debug Bridge). A simple and effective tool for installing apps and games directly on the device, offering more flexibility and access to content outside the official store.
