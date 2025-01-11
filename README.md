@@ -1,4 +1,4 @@
-<h1 align="center"><b>A big update is coming!</b></h1>
+<h1 align="center"><b>A big update is coming! 👀</b></h1>
 
 <p align="center">Soon you can look forward to a big update that will make the whole tool available for open-source to avoid gossip.</p>
 
