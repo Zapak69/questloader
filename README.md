@@ -6,8 +6,8 @@
 
 ⬇️ Vote clicking button ⬇️
 
-- [Yes 👍](https://github.com/tvoje-repozitare/issues/1)
-- [No 👎](https://github.com/tvoje-repozitare/issues/2)
+- [Yes 👍](https://github.com/Zapak69/questloader/issues/1)
+- [No 👎](https://github.com/Zapak69/questloader/issues/2)
 
 
 # Questloader
